@@ -2,7 +2,9 @@
 
 Improve thread readability and ergonomics by adding a new rune: `;>`.
 
-`;>` is very similar to `;<`, but removes some of the boilerplate, cleaning up your threads.
+`;>` is very similar to `;<`, but removes some of the boilerplate, cleaning up threads.
+
+Work in progress.
 
 ## Proposed usage example
 
